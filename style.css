@@ -1,0 +1,38 @@
+.half-width{
+    width:50%;
+}
+.half-width img{
+    width:80%;
+    margin:0 auto;
+}
+.flexible-display{
+    display: flex;
+    width:80%;
+    margin:0 auto;
+}
+.font-style h1{
+    font-size: 60px;
+    font-family: 'Cormorant Garamond', serif;
+    color:rgb(70, 62, 62);
+    line-height: 35px;
+
+}
+span{
+    color:rgb(247, 169, 54);
+    margin-top:0;
+}
+.font-style::before{
+    content: "";
+    height:120px;
+    width:5px;
+    background:rgb(236, 72, 72);
+    float:left;
+    border-radius:5px;
+    margin-right:15px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+p small{
+    font-family: 'Poppins', sans-serif;
+}
