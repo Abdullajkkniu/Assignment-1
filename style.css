@@ -1,3 +1,9 @@
+/* First section starts here*/
+
+body{
+    width:80%;
+    margin:0 auto;
+}
 .half-width{
     width:50%;
 }
@@ -7,8 +13,7 @@
 }
 .flexible-display{
     display: flex;
-    width:80%;
-    margin:0 auto;
+    margin-bottom:100px;
 }
 .font-style h1{
     font-size: 60px;
@@ -25,14 +30,71 @@ span{
     content: "";
     height:120px;
     width:5px;
-    background:rgb(236, 72, 72);
+    background:rgb(245, 75, 75);
     float:left;
     border-radius:5px;
     margin-right:15px;
 }
 p{
     font-family: 'Poppins', sans-serif;
+    color:rgb(59, 55, 55);
+    margin-bottom:30px;
 }
 p small{
     font-family: 'Poppins', sans-serif;
+    margin-top:30px;
+    display:inline-block;
 }
+a{
+    text-decoration: none;
+    background-color:rgb(245, 75, 75);
+    padding:10px 40px;
+    border-radius:5px;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    }
+.margin-top{
+    margin-top:100px;
+}
+/* First section ends here*/
+
+/* Second section stars here*/
+.text-alignment{
+    font-size:50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    text-align:center;
+    color:rgb(16, 16, 63);
+}
+h2{
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
+.background-color1{
+    width:250px;
+    background-color:rgb(223, 228, 238);
+    padding: 25px;
+    border-radius:7%;
+}
+.background-color2{
+    width:250px;
+    background-color:rgb(253, 230, 247);
+    padding: 25px;
+    border-radius:7%;
+}
+.background-color3{
+    width:250px;
+    background-color:rgb(241, 229, 243);
+    padding: 25px;
+    border-radius:7%;
+}
+
+.image-resize{
+    width:150px;
+    
+}
+.flexible-and-justify{
+    display:flex;
+    justify-content: space-around;
+}
+/* First section ends here*/
