@@ -1,7 +1,7 @@
 /* First section starts here*/
 body{
     margin:0;
-}
+    }
 section{
     width:90%;
     margin:0 auto;
@@ -95,6 +95,7 @@ h2{
     width:150px;
     
 }
+
 .flexible-and-justify{
     display:flex;
     justify-content: space-between;
@@ -108,9 +109,30 @@ h2{
     font-size:25px;
     line-height: 18px;
 }
-
+/* fifth section stars here*/
+.border-maintain img{
+    border-radius:20px;
+}
+.font-style-section{
+    font-family: 'Poppins', sans-serif;
+}
+.background-style{
+    background-color:rgb(247, 236, 222);
+    padding:10px;
+}
+h4{
+    border:1px solid rgb(231, 221, 207);
+    padding:10px;
+    
+}
+.para-style{
+       background-color:rgb(243, 242, 240);
+       padding:10px;
+}
+/* fifth section ends here*/
 
 /* Third section ends here*/
+
 
 /*Footer section starts here*/
  .footer{
