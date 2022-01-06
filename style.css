@@ -73,19 +73,19 @@ h2{
     font-weight: 900;
 }
 .background-color1{
-    width:250px;
+    width:280px;
     background-color:rgb(223, 228, 238);
     padding: 25px;
     border-radius:7%;
 }
 .background-color2{
-    width:250px;
+    width:280px;
     background-color:rgb(253, 230, 247);
     padding: 25px;
     border-radius:7%;
 }
 .background-color3{
-    width:250px;
+    width:280px;
     background-color:rgb(241, 229, 243);
     padding: 25px;
     border-radius:7%;
@@ -108,8 +108,18 @@ h2{
     font-weight: 900;
     font-size:25px;
     line-height: 18px;
+    color:rgb(54, 52, 52)
 }
-/* fifth section stars here*/
+/* Third section ends here*/
+
+/* fifth section starts here*/
+.font-h1{
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size:35px;
+    margin-bottom:70px;
+}
 .border-maintain img{
     border-radius:20px;
 }
@@ -123,15 +133,18 @@ h2{
 h4{
     border:1px solid rgb(231, 221, 207);
     padding:10px;
+    border-radius:5px;
     
 }
 .para-style{
        background-color:rgb(243, 242, 240);
        padding:10px;
+       border-radius:5px;
+
 }
 /* fifth section ends here*/
 
-/* Third section ends here*/
+
 
 
 /*Footer section starts here*/
