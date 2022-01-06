@@ -1,7 +1,9 @@
 /* First section starts here*/
-
 body{
-    width:80%;
+    margin:0;
+}
+section{
+    width:90%;
     margin:0 auto;
 }
 .half-width{
@@ -13,7 +15,7 @@ body{
 }
 .flexible-display{
     display: flex;
-    margin-bottom:100px;
+    margin-bottom:70px;
 }
 .font-style h1{
     font-size: 60px;
@@ -95,6 +97,28 @@ h2{
 }
 .flexible-and-justify{
     display:flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    margin-bottom:70px;
 }
-/* First section ends here*/
+/* Second section ends here*/
+/* Third section stars here*/
+.font-style-third-section{
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size:25px;
+    line-height: 18px;
+}
+
+
+/* Third section ends here*/
+
+/*Footer section starts here*/
+ .footer{
+    font-family: 'Yellowtail', cursive;
+    background-color:rgb(1, 2, 20);
+    padding:20px;
+    color:white;
+    text-align: center;
+ }
+ 
+/*Footer section starts here*/
